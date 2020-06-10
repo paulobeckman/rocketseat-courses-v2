@@ -52,11 +52,11 @@ Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocket
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
- <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/projeto4.gif" width="800px">
+ <img alt="rocketseat-courses-v2" title="#rocketseat-courses-v2" src="./github-assets/projeto4.gif" width="800px">
 
-  <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/paginas1.png" width="400px">
+  <img alt="rocketseat-courses-v2" title="#rocketseat-courses-v2" src="./github-assets/paginas1.png" width="400px">
 
-  <img alt="rocketseat-courses" title="#rocketseat-courses" src="./github-assets/paginas2.png" width="400px">
+  <img alt="rocketseat-courses-v2" title="#rocketseat-courses-v2" src="./github-assets/paginas2.png" width="400px">
 </p>
 
 ## 🛠 Tecnologias
