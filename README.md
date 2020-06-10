@@ -31,7 +31,9 @@
 ## 💻 Sobre o projeto
 
 🚀 Rocketseat Courses version 2 apresenta as informações de todos os cursos da [Rocketseat](rs), além de poder redirecionar para todas as redes sociais, comunidade e pagina oficial da instituição. 
-Esse projeto apresenta mudanças em relação ao projeto anterior [Rocketseat Courses](v1) na aba cursos, nela não é aberta uma janela, agora o usuário é direcionado para uma pagina especícifica onde tem detalhes do curso.
+Esse projeto apresenta mudanças em relação ao projeto anterior [Rocketseat Courses](v1):
+- na aba cursos, nela não é aberta uma janela, agora o usuário é direcionado para uma pagina especícifica onde tem detalhes do curso;
+- a pagina apresenta erro 404 caso o endereço passado na url não exista no site.
 
 O usuário poderá ser redirecionado para:
 - mandar email à instituição;
