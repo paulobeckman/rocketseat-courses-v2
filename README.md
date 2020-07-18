@@ -1,9 +1,9 @@
 <h1 align="center">
-    Rocketseat Courses Version 2
+    Rocketseat Courses version 2
 </h1>
 
 <h4 align="center"> 
-	🚀 Desafio 2 - Rocketseat Courses V2 🚀
+	🚀 Desafio 2 - Rocketseat Courses version 2 🚀
 </h4>
 
 <p align="center">
@@ -17,7 +17,7 @@
   </a>
 	
   
-  <a href="https://github.com/paulobeckman/rocketseat-courses/commits/master">
+  <a href="https://github.com/paulobeckman/rocketseat-courses-v2/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/rocketseat-courses-v2">
   </a>
 
@@ -46,7 +46,7 @@ Os usuários poderão ter acesso as informações dos três cursos na pagina con
 - ao clicar em cada card o usuário é redirecionado para uma pagina contendo detalhes sobre o curso clicado, caso o usuário deseja mais informaões sobre o curso ele pode clicar em "saiba mais" e assim ele será redirecioado para a pagina oficial do curso.
 
 
-Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocketseat](rs).
+Projeto desenvolvido como desafio no modulo 03 do curso **LaunchBase** oferecida pela [Rocketseat](rs).
 "O [LaunchBase](lb) é um treinamento no formato de bootcamp online que tem duração de 8 semanas. A cada semana os conteúdos são liberados de acordo com um cronograma, guiando o aluno pelas ferramentas e conceitos mais modernos de desenvolvimento que permitirão construir as melhores aplicações e ter acesso às melhores oportunidades como programador." - Rocketseat
 
 
